@@ -1,7 +1,7 @@
 {
-  "short_name": "FF: 1vs1",
-  "name": "Fantasy Football: 1vs1",
-  "description": "Compare your Fantasy Football team with another one in real time.",
+  "short_name": "FF Draft",
+  "name": "Fantasy Football Draft: 1vs1",
+  "description": "Compare your Fantasy Football Draft team with another one in real time.",
   "icons": [
     {
       "src": "favicon.ico",
